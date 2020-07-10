@@ -5,7 +5,7 @@ Cuando consultaste los registros existentes, se veía algo parecido a lo siguien
 { nombre: "Taj Mahal", locacion: "Agra, India", anioDeConstruccion: 1653 }
 ```
 
-Esa consulta era porque estábamos viendo al registro `tajMahal` completo, incluyendo todos sus campos. ¡Pero también se puede consultar por un campo particular! Mirá :eyes::
+Esa consulta era porque estábamos viendo al registro `tajMahal` completo, incluyendo todos sus campos. ¡Pero también se puede consultar un campo particular! Mira :eyes::
 
 ```javascript
 ム tajMahal.locacion
@@ -14,4 +14,4 @@ Esa consulta era porque estábamos viendo al registro `tajMahal` completo, inclu
 1653
 ```
 
-> Declaramos los planetas `mercurio`, `marte` y `saturno` como registros con la siguiente información: `nombre`, `temperaturaPromedio` y si `tieneAnillos`. ¡Probalos en la consola!
+> Declaramos los planetas `mercurio`, `marte` y `saturno` como registros con la siguiente información: `nombre`, `temperaturaPromedio` y si `tieneAnillos`. ¡Pruébalos en la consola!

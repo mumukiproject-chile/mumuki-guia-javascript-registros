@@ -1,5 +1,5 @@
 ---
 expectations:
-- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: "*"
-  inspection: Declares:masDificilDeCocinar
+  - !ruby 
+    binding: "*"
+    inspection: Declares:masDificilDeCocinar

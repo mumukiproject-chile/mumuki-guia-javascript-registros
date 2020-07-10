@@ -1,1 +1,1 @@
-¡Recordá que podés usar la función `longitud`! Y si los dos postres tienen la misma cantidad de ingredientes, podés devolver cualquiera de los dos. :satisfied:
+¡Recuerda que puedes usar la función `longitud`! Y si los dos postres tienen la misma cantidad de ingredientes, puedes devolver cualquiera de los dos. :satisfied:

@@ -1,3 +1,3 @@
 function anio(año) {
-  return parseInt(año.slice(-4));
+    return parseInt(año.slice(-4));
 }
