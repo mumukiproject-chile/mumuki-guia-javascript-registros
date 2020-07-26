@@ -14,9 +14,11 @@ anioDeConstruccionCristoRedentor = "1931";
 Luego se dio cuenta de que no era conveniente :unamused:: si bien la información entre las variables estaba relacionada, la estaba almacenando por separado. Entonces pensó: ¿no existirá alguna forma de representar las distintas características o propiedades de una misma cosa de forma agrupada?
 
 > Luego de investigar un poco, encontró una mejor manera de guardar la información de los monumentos. Prueba en la consola escribiendo:
-> `javascript
-  estatuaDeLaLibertad
-  cristoRedentor
-  torreEiffel
-  tajMahal
-  coliseo`
+>
+> ```javascript
+>  estatuaDeLaLibertad
+>  cristoRedentor
+>  torreEiffel
+>  tajMahal
+>  coliseo
+>```
