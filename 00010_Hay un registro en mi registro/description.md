@@ -13,5 +13,7 @@ let menuDelDia = {
 ```
 
 > Averigua qué devuelve el campo `ingredientes` del campo `postre` del registro `menuInfantil`. ¡Hay un registro dentro del otro! La sintaxis es la siguiente:
-> `javascript
-  menuInfantil.postre.ingredientes`
+
+> ```javascript
+menuInfantil.postre.ingredientes
+```
