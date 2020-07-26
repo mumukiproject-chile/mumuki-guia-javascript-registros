@@ -14,17 +14,17 @@ describe('', function () {
     });
 });
 describe('', function () {
-    it('monumentoNacionalALaBandera se llama Monumento Nacional a la Bandera', function () {
-        assert.equal(monumentoNacionalALaBandera.nombre.toLowerCase(), 'monumento nacional a la bandera');
+    it('banderaBicentenario se llama Monumento Nacional a la Bandera', function () {
+        assert.equal(banderaBicentenario.nombre.toLowerCase(), 'bandera bicentenario');
     });
 });
 describe('', function () {
-    it('monumentoNacionalALaBandera es de Rosario, Argentina', function () {
-        assert.equal(monumentoNacionalALaBandera.locacion, 'Rosario, Argentina');
+    it('banderaBicentenario es de Santiago, Chile', function () {
+        assert.equal(banderaBicentenario.locacion, 'Santiago, Chile');
     });
 });
 describe('', function () {
-    it('monumentoNacionalALaBandera tiene su año de construcción', function () {
-        assert.equal(monumentoNacionalALaBandera.anioDeConstruccion, 1957);
+    it('banderaBicentenario tiene su año de construcción', function () {
+        assert.equal(banderaBicentenario.anioDeConstruccion, 1957);
     });
 });
