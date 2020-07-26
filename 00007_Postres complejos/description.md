@@ -9,6 +9,8 @@ let lemonPie = { ingredientes: ["jugo de limón", "almidón de maíz", "leche", 
 ```
 
 > Crea una función `masDificilDeCocinar` que reciba dos registros de postres por parámetros y devuelve el que tiene más ingredientes de los dos.
-> `javascript
+>
+> ```javascript
   ム masDificilDeCocinar(flanCasero, cheesecake)
-  { ingredientes: ["huevos", "leche", "azúcar", "vainilla"], tiempoDeCoccion: 50 }`
+  { ingredientes: ["huevos", "leche", "azúcar", "vainilla"], tiempoDeCoccion: 50 }
+```
