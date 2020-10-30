@@ -5,4 +5,4 @@ expectations:
   inspection: Declares:torreAzadi
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
   binding: "*"
-  inspection: Declares:monumentoNacionalALaBandera
+  inspection: Declares:banderaBicentenario
